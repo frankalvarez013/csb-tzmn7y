@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-tzmn7y/static/css/main.def21ef7.css",
+    "main.js": "https://.github.io/csb-tzmn7y/static/js/main.e17af65d.js",
+    "index.html": "https://.github.io/csb-tzmn7y/index.html",
+    "main.def21ef7.css.map": "https://.github.io/csb-tzmn7y/static/css/main.def21ef7.css.map",
+    "main.e17af65d.js.map": "https://.github.io/csb-tzmn7y/static/js/main.e17af65d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def21ef7.css",
+    "static/js/main.e17af65d.js"
+  ]
+}
